@@ -52,3 +52,12 @@ npm run start:dev
 
 # A aplicação estará disponível em:
 http://localhost:3000
+
+
+## 📚 Documentação da API
+
+A documentação interativa da API está disponível através do Swagger UI:
+
+- **URL**: `http://localhost:3000/api`
+- **Formato JSON**: `http://localhost:3000/api-json`
+- **Formato YAML**: `http://localhost:3000/api-yaml`
