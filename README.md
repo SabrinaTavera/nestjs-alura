@@ -37,10 +37,10 @@ Antes de começar, verifique se você tem instalado na sua máquina:
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/SabrinaTavera/nestjs-alura.git
 
 # Acesse a pasta do projeto
-cd nome-do-repo
+cd nome-do-projeto
 
 # Instale as dependências
 npm install
